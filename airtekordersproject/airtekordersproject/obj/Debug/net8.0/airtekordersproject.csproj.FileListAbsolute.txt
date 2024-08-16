@@ -1,0 +1,17 @@
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/bin/Debug/net8.0/airtekordersproject
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/bin/Debug/net8.0/airtekordersproject.deps.json
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/bin/Debug/net8.0/airtekordersproject.runtimeconfig.json
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/bin/Debug/net8.0/airtekordersproject.dll
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/bin/Debug/net8.0/airtekordersproject.pdb
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.AssemblyInfoInputs.cache
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.AssemblyInfo.cs
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.csproj.CoreCompileInputs.cache
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.dll
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/refint/airtekordersproject.dll
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.pdb
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.genruntimeconfig.cache
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/ref/airtekordersproject.dll
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekordersproject.csproj.AssemblyReference.cache
+/Users/ameyakasbekar/Downloads/airtek_assessment/airtekordersproject/airtekordersproject/obj/Debug/net8.0/airtekor.8E6D9C5C.Up2Date
